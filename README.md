@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Turhan Can</h1>
-<p align="middle"><img src="https://giphy.com/gifs/ProBItExchange-dog-hello-hi-XO8RMtRaK73isIt0i2" width="91px"></h2> 
+<h1 align="center">Hi 👋, I'm Ertuğrul YÜKSEK</h1>
+<p align="middle"><img src="https://media1.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif?cid=ecf05e47u1e45ix7bgnz62x51ywyr81hvq3chm1tnwce9p9l&rid=giphy.gif&ct=g" width="91px"></h2> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ertgrulyksk&label=Profile%20views&color=0e75b6&style=flat" alt="ertgrulyksk" /> </p>
 
 - 🌱 I’m currently machine learning 

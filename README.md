@@ -8,10 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ertgrulyksk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="ertgrulyksk" height="30" width="40" /></a>  
 <a href="https://www.linkedin.com/in/ertu%C4%9Frul-y%C3%BCksek-b42958220/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="ertgrulyksk" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/erturulyksek" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="erturulyksek " height="30" width="40" /></a>  
-<a href="https://instagram.com/ertgrulyuksek" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="ertgrulyuksek" height="30" width="40" /></a>  
 <a href="https://medium.com/@ertgrulyksk" target="blank"><img align="center" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" alt="@ertgrulyksk" height="30" width="40" /></a>
 </p>
 

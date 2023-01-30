@@ -23,3 +23,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ertgrulyksk&show_icons=true&locale=en&layout=compact" alt="ertgrulyksk" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ertgrulyksk&layout=compact_icons=true&theme=highcontrast)](https://github.com/ertgrulyksk)
+
+
+![contributions](https://user-images.githubusercontent.com/99393019/206873716-60aacef7-7215-4d39-9f42-f09b568f2203.svg)

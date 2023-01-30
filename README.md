@@ -1,5 +1,3 @@
-<div align="center">
-
 <h1 align="center">Hello, I'm Ertuğrul YÜKSEK</h1>
 <p align="middle"><img src="https://media1.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif?cid=ecf05e47u1e45ix7bgnz62x51ywyr81hvq3chm1tnwce9p9l&rid=giphy.gif&ct=g" width="200px"></h2> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ertgrulyksk&label=Profile%20views&color=0e75b6&style=flat" alt="ertgrulyksk" /> </p>
@@ -20,6 +18,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ertgrulyksk&show_icons=true&locale=en" alt="ertgrulyksk" /></p>
 
+<div align="center">
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ertgrulyksk&border_radius=80)](https://git.io/streak-stats)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ertgrulyksk&show_icons=true&locale=en&layout=compact" alt="ertgrulyksk" /></p>
